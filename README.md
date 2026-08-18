@@ -37,21 +37,19 @@ A collection of healthcare-related visualizations created to strengthen my Pytho
 ## Repository Structure
 
 ```
-Python-Projects/
+Python_projects/
+├── README.md
 │
 ├── Hospital_Encounter_Analysis/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── images/
-│   └── README.md
+│   ├── README.md
+│   ├── Hospital_Encounter_Analysis.ipynb (or .py)
+│   ├── encounters.csv (or a sample)
+│   └── images/
 │
-├── Healthcare_Data_Visualization/
-│   ├── dataset/
-│   ├── notebooks/
-│   ├── images/
-│   └── README.md
-│
-└── README.md
+└── Healthcare_Graphs/
+    ├── README.md
+    ├── Graphs.ipynb (or .py)
+    └── images/
 ```
 
 ---
