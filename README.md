@@ -34,26 +34,6 @@ A collection of healthcare-related visualizations created to strengthen my Pytho
 
 ---
 
-## Repository Structure
-
-```
-Python_projects/
-├── README.md
-│
-├── Hospital_Encounter_Analysis/
-│   ├── README.md
-│   ├── Hospital_Encounter_Analysis.ipynb (or .py)
-│   ├── encounters.csv (or a sample)
-│   └── images/
-│
-└── Healthcare_Graphs/
-    ├── README.md
-    ├── Graphs.ipynb (or .py)
-    └── images/
-```
-
----
-
 ## Purpose
 
 This repository showcases my Python programming skills through healthcare-focused projects. It highlights my experience with data cleaning, exploratory data analysis, and visualization using industry-standard Python libraries.
